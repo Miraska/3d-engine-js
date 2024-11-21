@@ -30,3 +30,6 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
+
+## Ссылка на ютуб канал:
+[Youtube](https://www.youtube.com/@codetech.academy)
